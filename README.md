@@ -9,4 +9,6 @@ for example:
 5. most active day of the week
 6. frequently used words
 7. emojis used in chat
+
 The project aimed to summarize all the details to be known for checking the activeness and details of any chat file.
+i had used %%capture to hide my code outputs as the chat used by me for the testing purpose was my own chat.
